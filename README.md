@@ -88,8 +88,8 @@ O gerenciamento das atividades foi realizado através do **Trello**, onde foram 
 A ferramenta auxiliou na divisão de tarefas entre a equipe e no controle do progresso do projeto.
 
 🔗 Acesse o quadro do projeto:  
-[https://trello.com/seu-link-aqui
-](https://trello.com/b/BMy83CAJ/work-manager)
+
+https://trello.com/b/BMy83CAJ/work-manager
 ---
 
 ### 📂 Documentação do Projeto
