@@ -74,24 +74,56 @@ O sistema utiliza **MySQL** para armazenar:
 ### ❌ Exclusão
 - Remoção completa de registros  
 
+## 📁 Gerenciamento do Projeto
+
+O desenvolvimento do **WorkManager** foi organizado utilizando ferramentas de gestão e documentação, permitindo melhor acompanhamento das tarefas e evolução do sistema.
+
+### 📌 Trello
+O gerenciamento das atividades foi realizado através do **Trello**, onde foram organizadas:
+- 📋 Backlog do projeto  
+- 🛠️ Tarefas em desenvolvimento  
+- ✅ Funcionalidades concluídas  
+- 🐞 Correções e melhorias  
+
+A ferramenta auxiliou na divisão de tarefas entre a equipe e no controle do progresso do projeto.
+
+🔗 Acesse o quadro do projeto:  
+[https://trello.com/seu-link-aqui
+](https://trello.com/b/BMy83CAJ/work-manager)
 ---
 
-## 🧠 Diferenciais
-- Baseado em problemas reais  
-- Interface simples e funcional  
-- Organização clara dos dados  
-- Estrutura escalável  
+### 📂 Documentação do Projeto
+O projeto conta com uma documentação completa contendo:
+- 📄 Levantamento de requisitos  
+- 📊 Diagramas (classes, atividades e banco de dados)  
+- 🧠 Regras de negócio  
+- 🖥️ Protótipos de telas  
+- ⚙️ Descrição das funcionalidades  
+
+Essa documentação foi essencial para o planejamento, desenvolvimento e validação do sistema.
 
 ---
 
-## 🚀 Como Executar o Projeto
+### 🛠️ Processo de Desenvolvimento
+O projeto foi desenvolvido seguindo etapas organizadas:
 
-```bash
-# Clone o repositório
-git clone https://github.com/seu-usuario/workmanager.git
+1. Levantamento de requisitos  
+2. Pesquisa de mercado e análise de problemas reais  
+3. Prototipação de telas (UI/UX)  
+4. Desenvolvimento em Java (NetBeans)  
+5. Integração com banco de dados MySQL  
+6. Testes e validação do sistema  
 
-# Abra no NetBeans
+---
 
-# Configure o banco MySQL
+### 🧪 Controle de Versão
+O código do projeto foi versionado utilizando:
 
-# Execute o projeto
+- Git  
+- GitHub  
+
+Permitindo:
+- Controle de alterações  
+- Histórico de desenvolvimento  
+- Trabalho em equipe  
+
