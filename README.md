@@ -17,7 +17,6 @@ Dedico este projeto aos meus amigos, professores e familiares que me ajudaram e 
 Agradeço a Deus por ter colocado essas pessoas no meu caminho, sempre me guiando e ajudando nos meus passos futuros. Também sou grato pela saúde, bênçãos e proteção concedidas ao longo dessa jornada.
 
 ---
----
 
 ## 📌 Sobre o Projeto
 O **WorkManager** é uma aplicação desenvolvida em **Java** com integração ao **MySQL**, criada para facilitar a conexão entre clientes e prestadores de serviços.
