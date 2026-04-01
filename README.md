@@ -1,128 +1,97 @@
-<h1>PROJETO INTEGRADOR III WORK MANAGER</h1>
+# 🚀 WorkManager
 
-<H1>Introdução</H1>
+<p align="center">
+  Plataforma para intermediação de serviços entre clientes e prestadores
+</p>
 
-WorkManager
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow?style=for-the-badge"/>
+</p>
 
-Sobre o Projeto
+---
 
-O WorkManager é uma aplicação desenvolvida em Java com o objetivo de intermediar a relação entre clientes e prestadores de serviços, facilitando a busca, comparação e contratação de serviços de forma prática e eficiente.
-O projeto surgiu a partir da identificação de dificuldades reais no cotidiano, como a falta de informações, dificuldade de contato com profissionais e comparação de preços.
+## 📌 Sobre o Projeto
+O **WorkManager** é uma aplicação desenvolvida em **Java** com integração ao **MySQL**, criada para facilitar a conexão entre clientes e prestadores de serviços.
 
-Objetivo
+A plataforma permite encontrar profissionais, comparar informações e gerenciar cadastros de forma simples, rápida e eficiente.
 
-Otimizar o tempo dos usuários  
-Simplificar a busca por serviços  
-Melhorar a comunicação entre clientes e prestadores  
-Oferecer uma plataforma prática e confiável  
+---
 
-Funcionalidades
+## 🎯 Objetivo
+- Otimizar o tempo dos usuários  
+- Facilitar a busca por serviços  
+- Melhorar a comunicação entre clientes e prestadores  
+- Oferecer uma experiência prática e intuitiva  
 
-Cadastro de clientes e prestadores  
-Visualização de dados  
-Edição e exclusão de registros  
-Sistema de busca por nome, CPF/CNPJ e e-mail  
-Interface simples e intuitiva  
+---
 
-Tecnologias Utilizadas
+## ⚙️ Funcionalidades
+- Cadastro de clientes e prestadores  
+- Sistema de busca (nome, CPF/CNPJ, e-mail)  
+- Listagem de dados em tabelas  
+- Edição e exclusão de registros  
+- Validação de dados no cadastro  
 
-Java (NetBeans)  
-MySQL  
+---
 
-Banco de Dados
+## 🧑‍💻 Tecnologias Utilizadas
+- **Java (NetBeans)**
+- **MySQL**
 
-O sistema utiliza MySQL para armazenamento de:
-Dados de clientes  
-Dados de prestadores  
-Informações de cadastro  
-Dados de autenticação  
+---
 
-Funcionalidades de Cadastro
+## 🗄️ Banco de Dados
+O sistema utiliza **MySQL** para armazenar:
+- Clientes  
+- Prestadores de serviços  
+- Dados de autenticação  
 
-Cliente
-Nome completo  
-Telefone  
-CPF e RG  
-Cidade  
-E-mail  
-Senha  
+---
 
-Validações:
+## 🔐 Funcionalidades de Cadastro
 
-CPF  
-E-mail  
-Telefone  
-Senha / confirmação de senha  
+### 👤 Cliente
+- Nome completo, telefone, CPF, RG, cidade, e-mail e senha  
+- Validação de CPF, e-mail, telefone e senha  
 
-Prestador de Serviço
+### 🧰 Prestador
+- Nome, telefone, CNPJ, e-mail, endereço e área de atuação  
+- Validação de CNPJ, e-mail e telefone  
 
-Nome  
-Telefone  
-CNPJ  
-E-mail  
-Endereço  
-Ramo de atuação  
-Senha  
+---
 
-Validações:
+## 📋 Gerenciamento
 
-CNPJ  
-E-mail  
-Telefone  
-Senha / confirmação de senha  
+### 📊 Listagem
+- Visualização em tabela  
+- Busca por dados específicos  
 
-Gerenciamento de Dados
+### ✏️ Edição
+- Atualização de informações  
 
-Listagem
+### ❌ Exclusão
+- Remoção completa de registros  
 
-Exibição em tabela  
-Busca por nome, CPF/CNPJ e e-mail  
+---
 
-Edição
+## 🧠 Diferenciais
+- Baseado em problemas reais  
+- Interface simples e funcional  
+- Organização clara dos dados  
+- Estrutura escalável  
 
-Atualização de dados diretamente no sistema  
+---
 
-Exclusão
+## 🚀 Como Executar o Projeto
 
-Remoção completa dos dados de clientes e prestadores  
+```bash
+# Clone o repositório
+git clone https://github.com/seu-usuario/workmanager.git
 
-Diferenciais
+# Abra no NetBeans
 
-Baseado em problemas reais  
-Interface simples e funcional  
-Organização clara dos dados  
-Estrutura preparada para melhorias futuras  
+# Configure o banco MySQL
 
-Metodologia
-
-Levantamento de requisitos  
-Análise de problemas reais  
-Desenvolvimento em Java  
-Testes e validação do sistema  
-
-Melhorias Futuras
-
-Sistema de avaliações  
-Integração com pagamentos  
-Chat entre usuários  
-Versão web ou mobile  
-
-Equipe
-
-Luis Henrique Gianeti  
-Gabriel Evangelista Demarchi  
-Gustavo Henrique Ferreira dos Santos  
-Vinicius Pedroso Garcias  
-
-Instituição
-
-Centro Universitário das Faculdades Integradas de Ourinhos  
-
-Conclusão
-
-O WorkManager demonstra como uma aplicação em Java integrada ao MySQL pode resolver problemas reais, oferecendo uma solução prática para intermediação de serviços.
-Excluir Prestador:
-A exclusão ocorre diretamente no perfil
-
-Fluxo: Exclui todos os dados do prestador
-
+# Execute o projeto
