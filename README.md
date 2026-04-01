@@ -74,6 +74,25 @@ O sistema utiliza **MySQL** para armazenar:
 ### ❌ Exclusão
 - Remoção completa de registros  
 
+## 🚀 Melhorias Futuras
+- Sistema de avaliações  
+- Integração com pagamentos  
+- Chat entre usuários  
+- Versão web ou mobile  
+
+---
+
+## 👨‍💻 Equipe
+- Luis Henrique Gianeti  
+- Gabriel Evangelista Demarchi  
+- Gustavo Henrique Ferreira dos Santos  
+- Vinicius Pedroso Garcias  
+
+---
+
+## 🏫 Instituição
+UNIFIO Centro Universitário das Faculdades Integradas de Ourinhos  
+
 ## 📁 Gerenciamento do Projeto
 
 O desenvolvimento do **WorkManager** foi organizado utilizando ferramentas de gestão e documentação, permitindo melhor acompanhamento das tarefas e evolução do sistema.
