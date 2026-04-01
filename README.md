@@ -10,6 +10,13 @@
   <img src="https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow?style=for-the-badge"/>
 </p>
 
+## 🙏 Agradecimentos
+
+Dedico este projeto aos meus amigos, professores e familiares que me ajudaram e apoiaram na realização deste trabalho.
+
+Agradeço a Deus por ter colocado essas pessoas no meu caminho, sempre me guiando e ajudando nos meus passos futuros. Também sou grato pela saúde, bênçãos e proteção concedidas ao longo dessa jornada.
+
+---
 ---
 
 ## 📌 Sobre o Projeto
